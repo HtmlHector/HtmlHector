@@ -1,23 +1,14 @@
-# Hey, I'm Hector 👋
+# Hi, I'm Hector 👋
 
-I build thoughtful software for education, AI, and the web.
+Full-stack and AI engineer. I build agentic testing and developer tools, and I ship them.
 
-## What I'm working on
+## What I've built
+- **Traceback**: AI QA platform. Multi-agent browser/mobile testing (LangGraph), PR-preview test generation, and an autoscaling RabbitMQ worker fleet. Also built its MCP server (OAuth 2.0) and a public TypeScript CLI: [`@tracebackai/cli`](https://www.npmjs.com/package/@tracebackai/cli)
+- **Almonds**: Flutter food scanner on the App Store, with a Supabase backend over 4M+ products
+- **Congruence**: [cloud platform for agentic coding](https://github.com/HtmlHector/congruence-backend) on Firecracker microVMs, with sandbox hardening (FastAPI)
 
-- Building products that make complex workflows simpler
-- Exploring practical AI-powered tools
-- Improving full-stack systems from API to interface
-
-## Featured projects
-
-- [College App](https://github.com/HtmlHector/college-app-frontend) — a studio for reviewing and improving college application essays
-- [Congruence](https://github.com/HtmlHector/congruence-frontend) — a modern product experience backed by a dedicated API
-- [Synapse AI Web](https://github.com/HtmlHector/synapse-ai-web) — an AI-focused web experience
-
-## Tools I use
-
-TypeScript · JavaScript · Python · React · Node.js · PostgreSQL · Docker
-
-## Find me online
-
-- [GitHub](https://github.com/HtmlHector)
+## Stack
+**Languages** Python · TypeScript · Dart  
+**Backend** FastAPI · PostgreSQL · Redis · RabbitMQ · Docker  
+**Frontend** Next.js · React · Flutter · Tailwind  
+**AI** LangGraph · LangChain · Claude · MCP
